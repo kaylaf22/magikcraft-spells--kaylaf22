@@ -4,3 +4,7 @@ magikcraft
 ScreenEventMap
 Location
 Navigator
+diabetes
+FilePropertyBag
+JavaType
+Image
